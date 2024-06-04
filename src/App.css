@@ -1,0 +1,12 @@
+.products{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  width: 98vw;
+}
